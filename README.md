@@ -31,4 +31,4 @@ It is much better suited to FDM printing and would use much less material.
 
 
 Made by yours truly with **<3**,
-# YC
+# YC<sup><sub>666</sub></sup>
