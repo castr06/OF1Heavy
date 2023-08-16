@@ -27,7 +27,7 @@ As a note , the smaller holes that sit deeper in the case are the PCB screwholes
 <br>
 If made in plastic there is a chance you could just screw those screws in directly, but i would consider adding Heatset Inserts.<br>
 If making a box out of plastic I would also highly consider checking out this [Full OpenFrame1](https://www.printables.com/model/394573-openframe1-full-case) if you have a larger printer or this [Glued OpenFrame1](https://www.printables.com/model/394572-openframe1-case-glued) if you have a smaller printer, both are made by *Davy*.<br>
-Another great project is the [Rana Digital](https://github.com/rana-sylvatica/rana-digital) or the [OFOF1](https://github.com/rana-sylvatica/OFOF1) both by *Rana*.<br>
+Some other great projects are the [Rana Digital](https://github.com/rana-sylvatica/rana-digital) or the [OFOF1](https://github.com/rana-sylvatica/OFOF1) both by *Rana*.<br>
 They are all much better suited to FDM printing and would use much less material.<br>
 <br>
 
