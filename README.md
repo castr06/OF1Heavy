@@ -34,6 +34,10 @@ If making a box out of plastic I would also highly consider checking out this [F
 Some other great projects are the [Rana Digital](https://github.com/rana-sylvatica/rana-digital) and the [OFOF1](https://github.com/rana-sylvatica/OFOF1) both by *Rana*.<br>
 They are all much better suited to FDM printing and would use much less material.<br>
 <br>
+# Source Code
+I have included the source code for this build, to build it in OpenSCAD you will need to download and set up this module:<br>
+[Prism-Chamfer](https://github.com/hraftery/prism-chamfer) by *Hraftery*<br>
+<br>
 
 Made by yours truly with **<3**,
 # YC<sup><sub>666</sub></sup>
