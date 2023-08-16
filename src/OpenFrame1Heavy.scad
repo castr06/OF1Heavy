@@ -23,7 +23,7 @@ case = [360.7, 165, 22.225]; // Case Dimensions 22.225 tall is the height of 7/8
 deepest_cutout = [342.7, 151, 17.3]; //Internal Hollow Dimensions 5mm on x and y and 10mm for z if through hole for mx is too thick change z by 1mm thiner, 4mm differnce betwen pcb cutout so that pcb has 2mm all around to rest on 
 pcb_cutout = [350, 157.5, 17.3]; //Internal Cut-out for holding pcb inbetween mx thru-hole which is a 5mm difference in height with 2mm for the backplate
 backplate_cutout = [354.7, 159, 17.3];
-pico_cutout =[40,65, 17.3];
+pico_cutout =[43,68, 17.3];
 button_radius = 10.32; //Button size is 20.64mm so adding just the slightest amount of space for tolerances
 button_height = 9; //Button Height should be about 9mm
 button_hole_height = 10; //Button hole Height should be about 10
@@ -105,8 +105,8 @@ translate([325,0,7.2]){
 }
 //Support 3
 difference(){
-    translate([193.5,1,7.2]){
-        color("orange") cube([50,60,5]);
+    translate([191,1,7.2]){
+        color("orange") cube([54,60,5]);
     }
     translate([209.3,37.3,7.2]){
         linear_extrude(height = screwhole_height){
@@ -388,7 +388,7 @@ translate([0,5,8.5]){
             cylinder(1, center=true);
         }
     }
-    translate([287,90,0]){
+    translate([282,90,0]){
         cube(pico_cutout);
     }
 
