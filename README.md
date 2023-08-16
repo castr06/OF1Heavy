@@ -1,5 +1,5 @@
 # OF1Heavy
-OpenFrame1 Heavy box controller for Melee made with OpenSCAD!
+OpenFrame1 Heavy box controller for Smash Bros. made with OpenSCAD!
 
 ![Angle](https://github.com/castr06/OF1Heavy/blob/main/imgs/angle.PNG?raw=true)
 ![Top](https://github.com/castr06/OF1Heavy/blob/main/imgs/top.PNG?raw=true)
