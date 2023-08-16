@@ -16,7 +16,8 @@ For caps you can use any caps made to fit the Frame1 but an ideal open source so
 
 # Hardware
 PCB Holes use M2.5 screws, backplate holes use M4 screws, and all holes in this build are made to fit 10mm screws if desired.<br>
-I recommend the hardware below: <br>
+<br>
+**I recommend the hardware below:** <br>
 x5 of these style screws for the PCB: [M2.5 5mm Button Head Screw](https://www.mcmaster.com/92095A457/)<br>
 x6 of these style screws for a flush backplate fit: [M4 10mm Ultra-Low Profile Socket Head Screw](https://www.mcmaster.com/product/90358A006)<br>
 <br>
