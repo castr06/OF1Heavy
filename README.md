@@ -11,7 +11,7 @@ This is a custom OpenFrame1 case with a backplate, made with a built in thru-hol
 This design is made for the [OpenFrame1 Board](https://github.com/GregTurbo/Open-Frame1) made by *GregTurbo*.
 
 # CNC Milling
-The case should be made with 7/8 in. stock.<br>
+The case should be made with 7/8in. stock.<br>
 The backplate should be made with 1.6mm thick stock.
 
 # Switches and Caps
