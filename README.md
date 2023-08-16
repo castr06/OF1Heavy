@@ -26,9 +26,10 @@ If the screws you use for the backplate are not ultra-low profile or the head is
 As a note , the smaller holes that sit deeper in the case are the PCB screwholes and the ones that sit up higher and are slightly larger are the ones for the backplate.<br>
 <br>
 If made in plastic there is a chance you could just screw those screws in directly, but i would consider adding Heatset Inserts.<br>
-If making a box out of plastic I would also highly consider checking out [this project](https://www.printables.com/model/394573-openframe1-full-case) by *Davy*.
-It is much better suited to FDM printing and would use much less material.
-
+If making a box out of plastic I would also highly consider checking out [this project](https://www.printables.com/model/394573-openframe1-full-case) if you have a larger printer or [this project](https://www.printables.com/model/394572-openframe1-case-glued) if you have a smaller printer, both are made by *Davy*.<br>
+Another great project is the [Rana Digital](https://github.com/rana-sylvatica/rana-digital) by *Rana*.<br>
+They are all much better suited to FDM printing and would use much less material.<br>
+<br>
 
 Made by yours truly with **<3**,
 # YC<sup><sub>666</sub></sup>
