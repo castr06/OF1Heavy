@@ -400,7 +400,7 @@ translate([0,5,8.5]){
                 square(mx_hole, center = true);
             }
         }
-        translate([0,0,5.5]){
+        translate([0,0,5.98]){
             linear_extrude(height = button_hole_height){
                 circle(button_hole_radius);
             }
@@ -413,7 +413,7 @@ translate([0,5,8.5]){
                 square(mx_hole, center = true);
             }
         }
-        translate([0,0,5.5]){
+        translate([0,0,5.98]){
             linear_extrude(height = button_hole_height){
                 circle(button_hole_radius);
             }
@@ -426,7 +426,7 @@ translate([0,5,8.5]){
                 square(mx_hole, center = true);
             }
         }
-        translate([0,0,5.5]){
+        translate([0,0,5.98]){
             linear_extrude(height = button_hole_height){
                 circle(button_hole_radius);
             }
@@ -439,7 +439,7 @@ translate([0,5,8.5]){
                 square(mx_hole, center = true);
             }
         }
-        translate([0,0,5.5]){
+        translate([0,0,5.98]){
             linear_extrude(height = button_hole_height){
                 circle(button_hole_radius);
             }
@@ -452,7 +452,7 @@ translate([0,5,8.5]){
                 square(mx_hole, center = true);
             }
         }
-        translate([0,0,5.5]){
+        translate([0,0,5.98]){
             linear_extrude(height = button_hole_height){
                 circle(button_hole_radius);
             }
@@ -465,7 +465,7 @@ translate([0,5,8.5]){
                 square(mx_hole, center = true);
             }
         }
-        translate([0,0,5.5]){
+        translate([0,0,5.98]){
             linear_extrude(height = button_hole_height){
                 circle(button_hole_radius);
             }
@@ -478,7 +478,7 @@ translate([0,5,8.5]){
                 square(mx_hole, center = true);
             }
         }
-        translate([0,0,5.5]){
+        translate([0,0,5.98]){
             linear_extrude(height = button_hole_height){
                 circle(button_hole_radius);
             }
@@ -491,7 +491,7 @@ translate([0,5,8.5]){
                 square(mx_hole, center = true);
             }
         }
-        translate([0,0,5.5]){
+        translate([0,0,5.98]){
             linear_extrude(height = button_hole_height){
                 circle(button_hole_radius);
             }
@@ -504,7 +504,7 @@ translate([0,5,8.5]){
                 square(mx_hole, center = true);
             }
         }
-        translate([0,0,5.5]){
+        translate([0,0,5.98]){
             linear_extrude(height = button_hole_height){
                 circle(button_hole_radius);
             }
@@ -517,7 +517,7 @@ translate([0,5,8.5]){
                 square(mx_hole, center = true);
             }
         }
-        translate([0,0,5.5]){
+        translate([0,0,5.98]){
             linear_extrude(height = button_hole_height){
                 circle(button_hole_radius);
             }
@@ -530,7 +530,7 @@ translate([0,5,8.5]){
                 square(mx_hole, center = true);
             }
         }
-        translate([0,0,5.5]){
+        translate([0,0,5.98]){
             linear_extrude(height = button_hole_height){
                 circle(button_hole_radius);
             }
@@ -543,7 +543,7 @@ translate([0,5,8.5]){
                 square(mx_hole, center = true);
             }
         }
-        translate([0,0,5.5]){
+        translate([0,0,5.98]){
             linear_extrude(height = button_hole_height){
                 circle(button_hole_radius);
             }
@@ -556,7 +556,7 @@ translate([0,5,8.5]){
                 square(mx_hole, center = true);
             }
         }
-        translate([0,0,5.5]){
+        translate([0,0,5.98]){
             linear_extrude(height = button_hole_height){
                 circle(button_hole_radius);
             }
@@ -569,7 +569,7 @@ translate([0,5,8.5]){
                 square(mx_hole, center = true);
             }
         }
-        translate([0,0,5.5]){
+        translate([0,0,5.98]){
             linear_extrude(height = button_hole_height){
                 circle(button_hole_radius);
             }
@@ -582,7 +582,7 @@ translate([0,5,8.5]){
                 square(mx_hole, center = true);
             }
         }
-        translate([0,0,5.5]){
+        translate([0,0,5.98]){
             linear_extrude(height = button_hole_height){
                 circle(button_hole_radius);
             }
@@ -595,7 +595,7 @@ translate([0,5,8.5]){
                 square(mx_hole, center = true);
             }
         }
-        translate([0,0,5.5]){
+        translate([0,0,5.98]){
             linear_extrude(height = button_hole_height){
                 circle(button_hole_radius);
             }
@@ -608,7 +608,7 @@ translate([0,5,8.5]){
                 square(mx_hole, center = true);
             }
         }
-        translate([0,0,5.5]){
+        translate([0,0,5.98]){
             linear_extrude(height = button_hole_height){
                 circle(button_hole_radius);
             }
@@ -621,7 +621,7 @@ translate([0,5,8.5]){
                 square(mx_hole, center = true);
             }
         }
-        translate([0,0,5.5]){
+        translate([0,0,5.98]){
             linear_extrude(height = button_hole_height){
                 circle(button_hole_radius);
             }
@@ -634,7 +634,7 @@ translate([0,5,8.5]){
                 square(mx_hole, center = true);
             }
         }
-        translate([0,0,5.5]){
+        translate([0,0,5.98]){
             linear_extrude(height = button_hole_height){
                 circle(button_hole_radius);
             }
@@ -647,7 +647,7 @@ translate([0,5,8.5]){
                 square(mx_hole, center = true);
             }
         }
-        translate([0,0,5.5]){
+        translate([0,0,5.98]){
             linear_extrude(height = button_hole_height){
                 circle(button_hole_radius);
             }
