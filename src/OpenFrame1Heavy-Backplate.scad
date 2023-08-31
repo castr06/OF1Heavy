@@ -59,39 +59,39 @@ difference(){
     }
     //Backplate mounting Thru-Hole Flanges
     //Thru-hole Flange 1
-    translate([339.5,118.6,-9.15]){
+    translate([339.5,118.6,-9.5]){
          linear_extrude(height = screwhole_height){
             circle(screw_flange_radius);
         }
     }
     //Thru-hole Flange 2
-    translate([260.5,24.5,-9.15]){
+    translate([260.5,24.5,-9.5]){
         linear_extrude(height = screwhole_height){
             circle(screw_flange_radius);
         }
     }
     //Thru-hole Flange 3
-    translate([189.5,135.5,-9.15]){
+    translate([189.5,135.5,-9.5]){
         linear_extrude(height = screwhole_height){
             circle(screw_flange_radius);
         }
     }
     //Thru-hole Flange 4    
-    translate([141.5,46.5,-9.15]){
+    translate([141.5,46.5,-9.5]){
         linear_extrude(height = screwhole_height){
             circle(screw_flange_radius);
         }
     }
 
     //Thru-hole Flange 5
-    translate([49.5,133.5,-9.15]){
+    translate([49.5,133.5,-9.5]){
         linear_extrude(height = screwhole_height){
             circle(screw_flange_radius);
         }
     }
 
     //Thru-hole Flange 6
-    translate([57.5,29.5,-9.15]){
+    translate([57.5,29.5,-9.5]){
         linear_extrude(height = screwhole_height){
             circle(screw_flange_radius);
         }
