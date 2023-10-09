@@ -8,7 +8,7 @@ This is a custom OpenFrame1 case with a backplate, made with a built in thru-hol
 *images are renders dont mind the jagged lines*
 
 # PCB/Board
-This design is made for the [OpenFrame1 Board](https://github.com/GregTurbo/Open-Frame1) made by *GregTurbo*.
+This design is made for the [OpenFrame1 Board](https://github.com/GregTurbo/Open-Frame1) made by *GregTurbo*. <br>
 You can also use the [Integrated OF1 Board](https://github.com/Armastardo/Integrated-OF1/tree/main) made by *Quark*.
 
 # CNC Milling
